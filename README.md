@@ -1,0 +1,2 @@
+# RoboG
+A discord bot
