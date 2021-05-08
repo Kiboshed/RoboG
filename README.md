@@ -1,2 +1,2 @@
 # RoboG
-A discord bot
+A simple discord bot
